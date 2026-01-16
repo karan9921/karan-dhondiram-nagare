@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Skybound AI Editor",
+  "description": "Transform your photos using Gemini AI to create surreal scenes, like flying in the sky.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
